@@ -1,2 +1,2 @@
-# Prakt-3-Volosovets
-Repository for practical work  № 3
+# Prakt-Volosovets
+Repository for practical work 
